@@ -2,4 +2,6 @@
 Esta es la primera version del proyecto, aun no esta terminado
 """
 a=0
+x=2
 b= x + 98
+c=a*b
