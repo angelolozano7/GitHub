@@ -5,3 +5,4 @@ a=0
 x=2
 b= x + 98
 c=a*b
+print(b)
